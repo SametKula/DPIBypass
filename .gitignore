@@ -4,6 +4,8 @@ dpibypass
 *.exe
 *.test
 *.out
+*.zip
+*.tar.gz
 
 # IDE ve işletim sistemi dosyaları
 .idea/
