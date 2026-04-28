@@ -1,5 +1,5 @@
 # DPI Bypass macOS Proxy
-
+# Öğrenim amacıyla yapılmıştır.
 ## 1. Projenin Amacı
 Bu proje, İnternet Servis Sağlayıcıları (İSS) tarafından uygulanan Derin Paket İnceleme (Deep Packet Inspection - DPI) ve DNS Zehirlenmesi (DNS Hijacking) yöntemlerini aşmak amacıyla geliştirilmiş yerel bir proxy sunucu uygulamasıdır. Temel hedefi, kullanıcıların standart internet erişimlerini kısıtlayan ağ engellerini atlatmaktır. Bu projede sadece macOS'de çalışıcak şekilde kodlanmıştır. Multiplatform değildir ve sadece macos için derlenmiştir.Ama bu uygulama teknik olarak sadece bir proxy sunucudur. Yani proxy ayarlarını manuel olarak yaparsanız da çalışır size ekstra olarak windows için derlemek veya go ile çalıştırma görevide düşer ama isterseniz windows ve linux için de derleyebilirim. 
 
