@@ -1,0 +1,11 @@
+# Go derleme çıktıları
+DPIBypass.app/
+dpibypass
+*.exe
+*.test
+*.out
+
+# IDE ve işletim sistemi dosyaları
+.idea/
+.vscode/
+.DS_Store
